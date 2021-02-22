@@ -27,7 +27,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := hero2lte
-PRODUCT_NAME := lineage_hero2lte
+PRODUCT_NAME := havoc_hero2lte
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G935F
 PRODUCT_MANUFACTURER := samsung
